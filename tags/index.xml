@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Sean D. Stach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 03 May 2020 02:04:39 +0930</lastBuildDate>
     
 	<atom:link href="https://Rhiyo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://Rhiyo.github.io/tags/test/</link>
+      <pubDate>Sun, 03 May 2020 02:04:39 +0930</pubDate>
+      
+      <guid>https://Rhiyo.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>https://Rhiyo.github.io/tags/test2/</link>
+      <pubDate>Sun, 03 May 2020 02:04:39 +0930</pubDate>
+      
+      <guid>https://Rhiyo.github.io/tags/test2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

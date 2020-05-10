@@ -13,16 +13,27 @@
   </url>
   
   <url>
+    <loc>https://Rhiyo.github.io/tags/</loc>
+    <lastmod>2020-05-03T02:04:39+09:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://Rhiyo.github.io/posts/test/</loc>
     <lastmod>2020-05-03T02:04:39+09:30</lastmod>
   </url>
   
   <url>
-    <loc>https://Rhiyo.github.io/categories/</loc>
+    <loc>https://Rhiyo.github.io/tags/test/</loc>
+    <lastmod>2020-05-03T02:04:39+09:30</lastmod>
   </url>
   
   <url>
-    <loc>https://Rhiyo.github.io/tags/</loc>
+    <loc>https://Rhiyo.github.io/tags/test2/</loc>
+    <lastmod>2020-05-03T02:04:39+09:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rhiyo.github.io/categories/</loc>
   </url>
   
 </urlset>
