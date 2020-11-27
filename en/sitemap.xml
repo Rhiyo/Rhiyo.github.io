@@ -108,6 +108,41 @@
   </url>
   
   <url>
+    <loc>/tags/project/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scraping/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/youtube/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/home/services/service3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -202,20 +237,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/home/services/service4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
                 />
   </url>
   
