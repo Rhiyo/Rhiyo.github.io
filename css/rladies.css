@@ -478,3 +478,13 @@ buttonr:hover {
   }
   
 }
+
+ul#tags {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#tags li {
+		display: inline;
+	}
+
