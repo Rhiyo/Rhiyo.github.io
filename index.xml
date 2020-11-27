@@ -6,7 +6,7 @@
     <description>Recent content on Sean&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2020 09:22:52 +1030</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 11:19:06 +1030</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -15,6 +15,19 @@
       <guid>/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
 Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
+    </item>
+    
+    <item>
+      <title>Python Blackjack</title>
+      <link>/post/2020-11-27-python-blackjack/</link>
+      <pubDate>Fri, 27 Nov 2020 11:19:06 +1030</pubDate>
+      
+      <guid>/post/2020-11-27-python-blackjack/</guid>
+      <description>Source Code
+Demo
+A game of blackjack programmed using Python without the use of classes and other object-orientated features.
+Features:
+ Betting Insurance Surrender Split Double  </description>
     </item>
     
     <item>

@@ -73,18 +73,18 @@
   </url>
   
   <url>
-    <loc>/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</loc>
-    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+    <loc>/post/2020-11-27-python-blackjack/</loc>
+    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
+    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -95,6 +95,11 @@
                 hreflang="en"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</loc>
+    <lastmod>2020-11-27T09:22:52+10:30</lastmod>
   </url>
   
   <url>
