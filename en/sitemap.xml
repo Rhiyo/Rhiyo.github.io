@@ -74,17 +74,17 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
+    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020-11-27-python-blackjack/</loc>
-    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
+    <loc>/post/2020-11-27-quark/</loc>
+    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
+    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -95,6 +95,11 @@
                 hreflang="en"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/2020-11-27-python-blackjack/</loc>
+    <lastmod>2020-11-27T11:19:06+10:30</lastmod>
   </url>
   
   <url>

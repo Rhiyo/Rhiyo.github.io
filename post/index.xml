@@ -6,15 +6,24 @@
     <description>Recent content in Posts on Sean&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2020 11:19:06 +1030</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 11:30:11 +1030</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quark</title>
+      <link>/post/2020-11-27-quark/</link>
+      <pubDate>Fri, 27 Nov 2020 11:30:11 +1030</pubDate>
+      
+      <guid>/post/2020-11-27-quark/</guid>
+      <description>Demo
+Quark was a game devised for a game design university project. It was developed with a group of 4 people using Unreal Engine 4. It is a birds-eye stealth game with the premise being: You are a pacifist scientist and your lab facility has just been infiltrated by a malicious enforcer group. You must use the gadgets around your laboratory to escape without being detected. We designed different gadgets that had distinct game mechanics interacting with enemy AI, and interesting levels to traverse.</description>
+    </item>
+    
     <item>
       <title>Python Blackjack</title>
       <link>/post/2020-11-27-python-blackjack/</link>
       <pubDate>Fri, 27 Nov 2020 11:19:06 +1030</pubDate>
       
       <guid>/post/2020-11-27-python-blackjack/</guid>
-      <description>Source Code
-Demo
+      <description>Source Code Demo
 A game of blackjack programmed using Python without the use of classes and other object-orientated features.
 Features:
  Betting Insurance Surrender Split Double  </description>
@@ -26,9 +35,7 @@ Features:
       <pubDate>Fri, 27 Nov 2020 09:22:52 +1030</pubDate>
       
       <guid>/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</guid>
-      <description>Critical Research Analysis
-Rsearch Paper
-Code
+      <description>Critical Research Analysis Rsearch Paper Code
 For a university assignment I scraped comments across several of Australia’s ABC News YouTube channel videos and performed sentiment analysis on said data. Firstly, I wrote a critical analysis paper in which I describe the dynamics of YouTube and other social media scraping, sentiment analysis and authorship attribution using academic research and other resources. This paper can be found here. Secondly, I wrote a paper based on the exploration of the scraped data and its sentiment (which was calculated using SentiStrength.</description>
     </item>
     
