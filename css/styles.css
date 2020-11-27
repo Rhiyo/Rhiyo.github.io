@@ -877,3 +877,12 @@ footer.entry-meta .meta-in {
   background-repeat: no-repeat;
   height: 100%;
 }
+
+ul#tags {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#tags li {
+		display: inline;
+	}
