@@ -479,4 +479,25 @@ buttonr:hover {
   
 }
 
+.tag-container {
+    width:100%;
+    display: flex;
+}
 
+.tags {
+
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.tags li {
+
+    float:left;
+    margin: 5px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 10px;
+    background-color: #eee;
+    font-size: 10px;
+}
