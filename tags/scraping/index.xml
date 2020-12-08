@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scraping on Sean&#39;s Portfolio</title>
-    <link>/tags/scraping/</link>
-    <description>Recent content in scraping on Sean&#39;s Portfolio</description>
+    <title>scraping on Sean D. Stach Blog &amp; Portfolio</title>
+    <link>https://example.com/tags/scraping/</link>
+    <description>Recent content in scraping on Sean D. Stach Blog &amp; Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2020 09:22:52 +1030</lastBuildDate><atom:link href="/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 09:22:52 +1030</lastBuildDate><atom:link href="https://example.com/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABC News Youtube Comment Sentiment Analysis</title>
-      <link>/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</link>
+      <link>https://example.com/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</link>
       <pubDate>Fri, 27 Nov 2020 09:22:52 +1030</pubDate>
       
-      <guid>/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</guid>
-      <description>Critical Research Analysis Research Paper Code  For a university assignment I scraped comments across several of Australia’s ABC News YouTube channel videos and performed sentiment analysis on said data. Firstly, I wrote a critical analysis paper in which I describe the dynamics of YouTube and other social media scraping, sentiment analysis and authorship attribution using academic research and other resources. This paper can be found here. Secondly, I wrote a paper based on the exploration of the scraped data and its sentiment (which was calculated using SentiStrength.</description>
+      <guid>https://example.com/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</guid>
+      <description>Critical Research Analysis Research Paper Code  thisisthestartofsummary
+For a university assignment I scraped comments across several of Australia’s ABC News YouTube channel videos and performed sentiment analysis on said data. Firstly, I wrote a critical analysis paper in which I describe the dynamics of YouTube and other social media scraping, sentiment analysis and authorship attribution using academic research and other resources. This paper can be found here. Secondly, I wrote a paper based on the exploration of the scraped data and its sentiment (which was calculated using SentiStrength.</description>
     </item>
     
   </channel>
