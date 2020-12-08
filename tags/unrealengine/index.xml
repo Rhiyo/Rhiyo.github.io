@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>unrealengine on Sean D. Stach Blog &amp; Portfolio</title>
-    <link>https://example.com/tags/unrealengine/</link>
+    <link>https://rhiyo.github.io/tags/unrealengine/</link>
     <description>Recent content in unrealengine on Sean D. Stach Blog &amp; Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2020 11:30:11 +1030</lastBuildDate><atom:link href="https://example.com/tags/unrealengine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 11:30:11 +1030</lastBuildDate><atom:link href="https://rhiyo.github.io/tags/unrealengine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quark</title>
-      <link>https://example.com/post/2020-11-27-quark/</link>
+      <link>https://rhiyo.github.io/post/2020-11-27-quark/</link>
       <pubDate>Fri, 27 Nov 2020 11:30:11 +1030</pubDate>
       
-      <guid>https://example.com/post/2020-11-27-quark/</guid>
+      <guid>https://rhiyo.github.io/post/2020-11-27-quark/</guid>
       <description>Demo  thisisthestartofsummary
 Quark was a game devised for a game design university project. It was developed with a group of 4 people using Unreal Engine 4. It is a birds-eye stealth game with the premise being: You are a pacifist scientist and your lab facility has just been infiltrated by a malicious enforcer group. You must use the gadgets around your laboratory to escape without being detected. We designed different gadgets that had distinct game mechanics interacting with enemy AI, and interesting levels to traverse.</description>
     </item>
