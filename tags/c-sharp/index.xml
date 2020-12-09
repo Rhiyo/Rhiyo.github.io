@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c-sharp on Sean D. Stach Blog &amp; Portfolio</title>
+    <link>https://rhiyo.github.io/tags/c-sharp/</link>
+    <description>Recent content in c-sharp on Sean D. Stach Blog &amp; Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Dec 2020 02:02:32 +1030</lastBuildDate><atom:link href="https://rhiyo.github.io/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heroes Trials</title>
+      <link>https://rhiyo.github.io/post/2020-12-10-heroes-trials/</link>
+      <pubDate>Thu, 10 Dec 2020 02:02:32 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2020-12-10-heroes-trials/</guid>
+      <description>While living in Tokyo I volunteered for a convention “Tokyo Sandbox.” Which focuses on giving indie game developers the opportunity to show their work to game industry veterans and investors. During this event I met the developer for an RPG game called “Adel” at the time. They were looking for someone to develop the AI for their game which lead to me eventually working with him and his company Shinyuden. As of 2018 the game has been released on PlayStation, Switch, Steam and Xbox.</description>
+    </item>
+    
+    <item>
+      <title>3d Printing Simulation</title>
+      <link>https://rhiyo.github.io/post/2020-12-10-3d-printing-simulation/</link>
+      <pubDate>Thu, 10 Dec 2020 00:28:01 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2020-12-10-3d-printing-simulation/</guid>
+      <description>Source Code Demo  thisisthestartofsummary
+This project was developed for a university assignment to understand the use of game engines. The engine in this case being Unity. The task was to develop a 3D printing simulations using certain features of Unity. It had to be 3D with a first-person view point and keyboard-based locomotion. The 3D printer itself had to be controlled via an in-game button interface and the printing needed to be visualised in a unique way of my choice.</description>
+    </item>
+    
+  </channel>
+</rss>

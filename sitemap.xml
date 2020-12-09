@@ -3,32 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rhiyo.github.io/tags/gamedev/</loc>
-    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
+    <loc>https://rhiyo.github.io/tags/c-sharp/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/game-ai/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/post/2020-12-10-heroes-trials/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
   </url>
   
   <url>
     <loc>https://rhiyo.github.io/post/</loc>
-    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://rhiyo.github.io/tags/project/</loc>
-    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rhiyo.github.io/post/2020-11-27-quark/</loc>
-    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
+    <loc>https://rhiyo.github.io/tags/released-game/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
   </url>
   
   <url>
     <loc>https://rhiyo.github.io/</loc>
-    <lastmod>2020-11-27T11:30:11+10:30</lastmod>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
   </url>
   
   <url>
     <loc>https://rhiyo.github.io/tags/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/unity/</loc>
+    <lastmod>2020-12-10T02:02:32+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/post/2020-12-10-africa-acled-visualization/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/analysis/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/data-science/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/data-viz/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/geopolitics/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/gis/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/project/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/r-lang/</loc>
+    <lastmod>2020-12-10T01:38:39+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/post/2020-12-10-3d-printing-simulation/</loc>
+    <lastmod>2020-12-10T00:28:01+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/tags/gamedev/</loc>
+    <lastmod>2020-12-10T00:28:01+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rhiyo.github.io/post/2020-11-27-quark/</loc>
     <lastmod>2020-11-27T11:30:11+10:30</lastmod>
   </url>
   
