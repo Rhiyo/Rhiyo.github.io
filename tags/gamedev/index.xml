@@ -6,7 +6,17 @@
     <description>Recent content in gamedev on Sean D. Stach Blog &amp; Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Dec 2020 00:28:01 +1030</lastBuildDate><atom:link href="https://rhiyo.github.io/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 01:15:31 +1030</lastBuildDate><atom:link href="https://rhiyo.github.io/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RuneCaster</title>
+      <link>https://rhiyo.github.io/post/2020-12-11-runecaster/</link>
+      <pubDate>Fri, 11 Dec 2020 01:15:31 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2020-12-11-runecaster/</guid>
+      <description>Trailer LibGDX Demo Code  thisisthestartofsummary
+RuneCaster started as a game project I developed at University based on an assignment I was given to build a mobile game using the Java library LibGDX. Mobile games weren&amp;rsquo;t something I personally played so it was a learning process for me and required me to look into and test other popular games on the platform. I wanted to make use a strength of mobile devices, the touch screen, so the main mechanic was to cast spells by drawing matching runes once prompted on the screen.</description>
+    </item>
+    
     <item>
       <title>3d Printing Simulation</title>
       <link>https://rhiyo.github.io/post/2020-12-10-3d-printing-simulation/</link>
