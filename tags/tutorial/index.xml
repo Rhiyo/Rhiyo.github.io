@@ -13,7 +13,7 @@
       <pubDate>Wed, 21 Apr 2021 21:18:59 +0930</pubDate>
       
       <guid>https://rhiyo.github.io/post/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/</guid>
-      <description>Docker containers are stateless, meaning that once they stop running, they&amp;rsquo;ll lose any data generated after they started running. However if we&amp;rsquo;re using docker for a postgres database we&amp;rsquo;ll most likely want to keep our data. Theoretically, we could just never stop the docker container but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there.</description>
+      <description>Docker containers are stateless, meaning that they are not gauranteed to keep data if restarted. However if we&amp;rsquo;re using docker for a postgres database we want to be sure our data persists. Theoretically, we could just never stop the docker container, but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there.</description>
     </item>
     
   </channel>
