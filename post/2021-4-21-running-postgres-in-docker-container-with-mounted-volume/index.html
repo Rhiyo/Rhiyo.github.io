@@ -187,14 +187,14 @@
 <p>However, if instead you would like to share the IP address of your host computer (and ports), add <code>--net=&quot;host&quot;</code> after <code>docker run</code> while initializing the container.</p>
 <h3 id="managing-postgres-server-from-outside-container">Managing postgres server from outside container</h3>
 <p>There are many options for managing a server but my preference is <a href="https://dbeaver.io/">dbeaver</a>.</p>
-<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step1.jpg" alt="Step 1.">
-If you&rsquo;ve installed this software, click the <em>new connection</em> icon under file menu button on the top left of the window and then click PostgreSQL and next.</p>
-<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step2.jpg" alt="Step 2.">
-If you&rsquo;ve left the network mode as bridging (the default) enter the IP address you found earlier as the host, however if you switched to host, enter <em>localhost</em>. The database name will match the username that was input as an envrionment variable, the default being <em>postgres</em>. The username again being the latter, with the password also being what you had input as an environment variable, with which I used <em>password</em> as an example.</p>
-<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step3.jpg" alt="Step 3.">
-This should be enough information to connect, however one extra setting I like to tick is within the PostgreSQL, tab, <em>Show all databases</em>. Click <em>Finish</em> once you&rsquo;ve configured everything you want to.</p>
-<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step4.jpg" alt="Step 4.">
-If all is well, you should now have a connection to the database in dbeaver and be able to manage it from the software as a superuser.</p>
+<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step1.jpg" alt="Step 1."></p>
+<p>If you&rsquo;ve installed this software, click the <em>new connection</em> icon under file menu button on the top left of the window and then click PostgreSQL and next.</p>
+<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step2.jpg" alt="Step 2."></p>
+<p>If you&rsquo;ve left the network mode as bridging (the default) enter the IP address you found earlier as the host, however if you switched to host, enter <em>localhost</em>. The database name will match the username that was input as an envrionment variable, the default being <em>postgres</em>. The username again being the latter, with the password also being what you had input as an environment variable, with which I used <em>password</em> as an example.</p>
+<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step3.jpg" alt="Step 3."></p>
+<p>This should be enough information to connect, however one extra setting I like to tick is within the PostgreSQL, tab, <em>Show all databases</em>. Click <em>Finish</em> once you&rsquo;ve configured everything you want to.</p>
+<p><img src="/img/2021-4-21-running-postgres-in-docker-container-with-mounted-volume/step4.jpg" alt="Step 4."></p>
+<p>If all is well, you should now have a connection to the database in dbeaver and be able to manage it from the software as a superuser.</p>
 <h1 id="to-conclude">To conclude</h1>
 <p>If you followed all the steps correctly and there were no mistakes with my instructions or on your end, you should now have a working postgres container with a volume (or local drive) mounted to it so data may persist. You can now delete or stop this container at any time and remount the data again, which is useful</p>
 <ul>
