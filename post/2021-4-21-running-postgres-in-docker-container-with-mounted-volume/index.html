@@ -35,7 +35,7 @@
 <meta name="twitter:image" content="https://rhiyo.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content="Running Postgres in Docker Container With Mounted Volume"/>
-<meta name="twitter:description" content="Docker containers are stateless, meaning that once they stop running, they&rsquo;ll lose any data generated after they started running. However if we&rsquo;re using docker for a postgres database we&rsquo;ll most likely want to keep our data. Theoretically we could just never step the docker container but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there."/>
+<meta name="twitter:description" content="Docker containers are stateless, meaning that once they stop running, they&rsquo;ll lose any data generated after they started running. However if we&rsquo;re using docker for a postgres database we&rsquo;ll most likely want to keep our data. Theoretically, we could just never stop the docker container but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there."/>
 
 </head>
 <body><div class="sidebar animated fadeInDown ">
@@ -140,7 +140,7 @@
             
             
             
-            <p>Docker containers are stateless, meaning that once they stop running, they&rsquo;ll lose any data generated after they started running. However if we&rsquo;re using docker for a postgres database we&rsquo;ll most likely want to keep our data. Theoretically we could just never step the docker container but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there.</p>
+            <p>Docker containers are stateless, meaning that once they stop running, they&rsquo;ll lose any data generated after they started running. However if we&rsquo;re using docker for a postgres database we&rsquo;ll most likely want to keep our data. Theoretically, we could just never stop the docker container but issues outside of our control could happen such as crashes or power outages. We get around this problem by mounting a volume to our container and storing the data there.</p>
 <h1 id="why-use-docker">Why use docker?</h1>
 <p>Reading online some people seem to think it&rsquo;s a silly idea to use a docker container for a database server, and they make good arguments. I am personally using it for a few reasons:</p>
 <ul>
