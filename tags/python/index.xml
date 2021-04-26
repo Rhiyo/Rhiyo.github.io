@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Sean D. Stach Blog &amp; Portfolio</title>
+    <link>https://rhiyo.github.io/tags/python/</link>
+    <description>Recent content in python on Sean D. Stach Blog &amp; Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Mar 2021 13:57:00 +1030</lastBuildDate><atom:link href="https://rhiyo.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathfinder:Kingmaker Helper</title>
+      <link>https://rhiyo.github.io/post/2021-03-29-pfkm-helper/</link>
+      <pubDate>Mon, 29 Mar 2021 13:57:00 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2021-03-29-pfkm-helper/</guid>
+      <description>Live Site Code Repository  thisisthestartofsummary
+Last year I played the game Pathfinder Kingmaker and had issues while trying to finish a quest. The quest required you kill 50 specific monsters spread throughout the game. However, the game did tell you which monsters you had killed, just how many. This made it difficult to complete the quest as if you were only missing 1 or 2 monsters, even if you looked online for their locations, if you didn&amp;rsquo;t know which monsters were missing you would still have to check all locations.</description>
+    </item>
+    
+    <item>
+      <title>Python Blackjack</title>
+      <link>https://rhiyo.github.io/post/2020-11-27-python-blackjack/</link>
+      <pubDate>Fri, 27 Nov 2020 11:19:06 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2020-11-27-python-blackjack/</guid>
+      <description> Source Code Demo  thisisthestartofsummary
+A game of blackjack programmed using Python without the use of classes and other object-orientated features.
+Features:
+ Betting Insurance Surrender Split Double  </description>
+    </item>
+    
+    <item>
+      <title>ABC News Youtube Comment Sentiment Analysis</title>
+      <link>https://rhiyo.github.io/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</link>
+      <pubDate>Fri, 27 Nov 2020 09:22:52 +1030</pubDate>
+      
+      <guid>https://rhiyo.github.io/post/2020-11-27-abc-news-youtube-comment-sentiment-analysis/</guid>
+      <description>Critical Research Analysis Research Paper Code  thisisthestartofsummary
+For a university assignment I scraped comments across several of Australia’s ABC News YouTube channel videos and performed sentiment analysis on said data. Firstly, I wrote a critical analysis paper in which I describe the dynamics of YouTube and other social media scraping, sentiment analysis and authorship attribution using academic research and other resources. This paper can be found here. Secondly, I wrote a paper based on the exploration of the scraped data and its sentiment (which was calculated using SentiStrength.</description>
+    </item>
+    
+  </channel>
+</rss>
