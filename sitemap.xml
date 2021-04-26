@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rhiyo.github.io/about/</loc>
+    <lastmod>2021-04-26T21:46:32+09:30</lastmod>
+  </url><url>
     <loc>https://rhiyo.github.io/tags/docker/</loc>
     <lastmod>2021-04-21T21:18:59+09:30</lastmod>
   </url><url>
