@@ -1,0 +1,81 @@
+baseURL = "https://rhiyo.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Blog & Portfolio"
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+title = "Sean D. Stach"
+author = "Sean .D Stach"
+description = "Blog & Portfolio"
+profilePicture = "images/profile.jpg"
+doNotLoadAnimations = true # Animations are loaded by default
+readMore = true
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/sean-d-stach/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/Rhiyo"
+
+[[params.socialIcons]]
+icon = "fab fa-gitlab"
+title = "Gitlab"
+url = "https://gitlab.com/Rhiyo"
+
+[[params.socialIcons]]
+icon = "fab fa-reddit"
+title = "Reddit"
+url = "https://www.reddit.com/user/rhiyo"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/seandstach"
+
+[[params.socialIcons]]
+icon = "fab fa-steam"
+title = "Steam"
+url = "https://steamcommunity.com/id/Rhiyo"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:sean.stach@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Archive"
+  weight = 200
+  identifier = "post"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/Rhiyo/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/Rhiyo/anatole"
+    disable = false
