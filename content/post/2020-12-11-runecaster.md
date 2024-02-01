@@ -13,7 +13,7 @@ RuneCaster started as a game project I developed at University based on an assig
 
 The game as an assignment was well received and with my brother I decided to continue development as a hobby. We first ported the game to the Unity Engine, which thanks to the Unity store we found an asset which let us have spell casting with free hand drawing like how we original envisioned it. We were also able to get another friend onboard, Edward Hund, who at the time was wanting to get into making music for games and of writing this now works full time doing so.
 
-![AVCON](/img/2020-12-11-runecaster/avcon.jpg)
+![AVCON](/img/post/2020-12-11-runecaster/avcon.jpg)
 
 We presented the game at some conventions, being lucky enough to win a position to present at AVCON's (One of Adelaide, Australia's biggest conventions) indie corner in 2016. This gave us plenty of feedback and it was a great experience to see other people playing our games. My favourite thing to notice was how quicky children picked up how to play the game in comparison to adults. 
 
