@@ -13,6 +13,13 @@ profilePicture = "images/profile.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 readMore = true
 
+[params.giscus]
+repo = "Rhiyo/blog-comments"
+repoID = "R_kgDOLM7hrA"
+category = "Announcements"
+categoryID = "DIC_kwDOLM7hrM4Cc5Cv"
+
+
 [params.shareButtons]
   size = "medium"
   icon = "solid"
