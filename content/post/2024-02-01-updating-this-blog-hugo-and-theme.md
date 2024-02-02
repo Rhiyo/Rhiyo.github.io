@@ -23,7 +23,7 @@ While I could have opted for any blogging platform, my path led me to static sit
 * The site was fast, generated at deployment.
 * It offered a clear separation between content, theme, and build logic.
 
-After exploring various options, Hugo caught my attention for it being newer and faster to build pages.
+After exploring various options, [Hugo](https://gohugo.io/) caught my attention for it being newer and faster to build pages.
 
 I settled on using the [anatole theme](https://themes.gohugo.io/themes/anatole/) for its minimalist yet appealing design. While the focus was on content, I appreciated the theme's stylish layout. Nevertheless, I aimed to personalize it—adjusting the layout, image display, and more. These modifications proved to be the most challenging aspect, involving numerous deployments for minor tweaks and reacquainting myself with CSS, HTML, and templating. Despite my somewhat outdated web design skills, I was pleased with the resulting Hugo site adorned with the Anatole theme. The result of this initial site can be seen below.
 
