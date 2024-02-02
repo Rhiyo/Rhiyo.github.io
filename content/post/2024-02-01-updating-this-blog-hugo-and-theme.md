@@ -37,8 +37,9 @@ A high level list of changes were:
 * Switch post thumb nails to appear in a small box on the left on the home page
 * a slightly bigger box on the right when on a single page
 * Removed the border between the sidebar and main content
-* Changed dags and date to appear above post preview, changed tags to have a box style
-* Many tweaks to the sizinhg and alightments, espcially on the post lists and post themselves.
+* Changed tags and date to appear above post preview, changed tags to have a box style
+* Move read more to bottom right
+* Many tweaks to the sizing and alightments of elements, espcially on the post lists and post themselves.
 
 # Bug in original theme code
 
