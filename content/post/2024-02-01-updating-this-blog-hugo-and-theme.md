@@ -93,4 +93,4 @@ There's a few changes I'd like to integrate in the future:
 * Add the ability to share posts
 * Add a portfolio section (the anatole theme now supports this)
 
-Now that I've revamped this blog - I can now get posting to not posting any other blog posts!
+Now that I've revamped this blog - I can now get to not posting any other blog posts!
