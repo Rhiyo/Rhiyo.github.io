@@ -1,7 +1,7 @@
 ---
 title: "Updating This Blog: Hugo and Theme"
 date: 2024-02-01T01:43:59+09:30
-Tags: ['hugo','blog','scss']
+Tags: ['hugo','blog','scss','github','cicd']
 ---
 
 * [Content Repo](https://www.youtube.com/watch?v=L0nRFNWD4p8)
