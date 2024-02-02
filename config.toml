@@ -13,6 +13,12 @@ profilePicture = "images/profile.jpg"
 doNotLoadAnimations = true # Animations are loaded by default
 readMore = true
 
+[params.shareButtons]
+  size = "medium"
+  icon = "solid"
+  networks = ["linkedin", "reddit", "facebook", "twitter", "email"]
+
+
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[params.socialIcons]]
